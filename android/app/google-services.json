@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "222955108790",
+    "project_id": "benefit-dev-738cd",
+    "storage_bucket": "benefit-dev-738cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222955108790:android:588fc502fa7ab794436917",
+        "android_client_info": {
+          "package_name": "com.benefitpocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222955108790-bfmaio5l46rkkmes0lt891pb090tsttp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9HMPB7PUzo2RTCQHMO45cuRhjXVWeeLg"
+        },
+        {
+          "current_key": "AIzaSyA0eBIyffnpquZDfkOAGEyt9xhb4v39LQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222955108790-bfmaio5l46rkkmes0lt891pb090tsttp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222955108790-6ojic1o85fsdf4prv02hihorsro4jvcd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.benefitpocket.v2.dev",
+                "app_store_id": "12345678"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222955108790:android:bf77a6a7cfc45a9a436917",
+        "android_client_info": {
+          "package_name": "com.benefitpocket.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222955108790-bfmaio5l46rkkmes0lt891pb090tsttp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9HMPB7PUzo2RTCQHMO45cuRhjXVWeeLg"
+        },
+        {
+          "current_key": "AIzaSyA0eBIyffnpquZDfkOAGEyt9xhb4v39LQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222955108790-bfmaio5l46rkkmes0lt891pb090tsttp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222955108790-6ojic1o85fsdf4prv02hihorsro4jvcd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.benefitpocket.v2.dev",
+                "app_store_id": "12345678"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222955108790:android:3a3a94b25cc6c86d436917",
+        "android_client_info": {
+          "package_name": "com.benefitpocket.v2.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222955108790-bfmaio5l46rkkmes0lt891pb090tsttp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9HMPB7PUzo2RTCQHMO45cuRhjXVWeeLg"
+        },
+        {
+          "current_key": "AIzaSyA0eBIyffnpquZDfkOAGEyt9xhb4v39LQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222955108790-bfmaio5l46rkkmes0lt891pb090tsttp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222955108790-6ojic1o85fsdf4prv02hihorsro4jvcd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.benefitpocket.v2.dev",
+                "app_store_id": "12345678"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
